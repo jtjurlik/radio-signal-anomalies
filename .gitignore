@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 results/predictions/anonymizer.ipynb
+data_proc/data
+config.json
