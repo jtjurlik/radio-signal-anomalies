@@ -165,8 +165,7 @@ results/predictions/anonymizer.ipynb
 data_proc/data
 config.json
 
-main/data_proc/data/
-main/data_proc/data/full_kpis.csv
+
 main/results/predictions/multivar/test_preds_*
 main/results/predictions/univar/test_preds_*
 data/full_kpis.csv
