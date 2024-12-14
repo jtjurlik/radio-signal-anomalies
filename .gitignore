@@ -170,3 +170,5 @@ config.json
 main/results/predictions/multivar/test_preds_*
 main/results/predictions/univar/test_preds_*
 data/full_kpis.csv
+
+.DS_Store
