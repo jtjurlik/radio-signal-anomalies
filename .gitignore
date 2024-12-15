@@ -163,7 +163,7 @@ cython_debug/
 
 thesis/results/predictions/anonymizer.ipynb
 
-data_proc/data
+data
 config.json
 
 
@@ -172,3 +172,4 @@ main/results/predictions/univar/test_preds_*
 data/full_kpis.csv
 
 .DS_Store
+data/full_eng.csv
